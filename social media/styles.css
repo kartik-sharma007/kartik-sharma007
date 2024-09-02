@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: border-box;
+    font-family: Arial;
+
+}
+
+.account{
+    color: white;
+    background-color: #545454;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    margin-top: 30px;
+    border: 3px solid transparent;
+
+    padding: 5px;
+    display: flex;
+    height: 700px;
+    width: 100%;
+    border: #8c52ff;
+    border-radius: 10px
+}
+.id{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+    border: none ;
+    border-radius: 10px;
+    background-color: #919191;
+    height:600px;
+    width: 70%;
+    border: 3px solid transparent;
+
+}
+
+.title {
+   color: rgb(9, 13, 231);
+   font-size: 4rem;
+   padding: none;
+   margin-top: 10px;
+   margin-left: 10px;
+   border: 3px solid transparent;
+}
+
+.text{
+    font-size: 2rem;
+    border: 3px solid transparent;
+}
+
+.Language{
+    display: flex;
+    justify-content: center;
+}
+
+.text-small {
+    margin: 3px;
+    padding: 5px;
+    font-size: 0.8rem;
+    margin-bottom: 4px;
+    border: 3px solid transparent;
+}
+
+.text-big {
+    padding: 5px;
+    font-size: 1.5rem;
+    margin-bottom: 4px;
+}
+
+.button {
+    padding: 5px;
+    margin: 5px;
+    font-size: 25px;
+    background-color: #545454;
+    color: white;
+    border: 3px solid transparent;
+    border-radius: 10px;
+}
+
+.text-a {
+    font-size: 25px;
+    background-color: #545454;
+    color: white;
+    border: 3px solid transparent;
+    border-radius: 10px;
+}
+
+.county {
+    font-size: 25px;
+    border: 3px solid transparent;
+    border-radius: 10px;
+
+}
