@@ -25,6 +25,17 @@
     border: #8c52ff;
     border-radius: 10px
 }
+
+.border {
+    border: 2px solid transparent;
+    cursor: pointer;
+}
+
+.border:hover {
+    border: 2px solid white;
+    cursor: pointer;
+}
+
 .id{
     display: flex;
     flex-direction: column;
