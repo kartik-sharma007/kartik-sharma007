@@ -24,6 +24,7 @@
 .border {
     border: 0.5px solid transparent;
     cursor: pointer;
+    padding: 10px;
 }
 
 .border:hover {
@@ -36,7 +37,9 @@
     justify-content: space-evenly;
     font-size: 1.5rem;
     margin-left: 5px;
+    padding: 5px;
 }
+
 .navbar2 {
     justify-content: center;
     align-items: center;
@@ -64,18 +67,21 @@
     align-items: center;
     text-align: center;
 }
+
 .n-box3 {
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
 }
+
 .n-box4 {
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
 }
+
 .n-box5 {
     display: flex;
     justify-content: center;
@@ -99,6 +105,7 @@
     display: flex;
     justify-content: center;
 }
+
 .n2-box2 {
     color: rgb(27, 69, 222);
     min-height: 300px;
@@ -120,8 +127,7 @@
     width: 150px;
     background-color: red;
     color: white;
-    border: 2px solid black;
-
+    border: 1px solid transparent;
 }
 
 .m-box2 { 
@@ -132,42 +138,9 @@
     color: white;
     justify-content: space-evenly;
     height: auto;
-    min-height: 40px;
+    min-height: 30px;
     width: 100%;
-    border: 1px solid black;
-}
-
-.m-box3 {
-    border: 1px solid black;
-    height: 200px;
-    width: 40%;
-    min-width: 100px;
- }
-
-.m-box3a {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 10px;
-    width: auto;
-    padding: 10px;
-    background-color: rgb(45, 143, 234);
-}
-
-.m-box4 {
-    border: 1px solid black;
-    height: 200px;
-    width: 40%;
-    min-width: 100px;
-}
-.m-box5 {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    justify-content: space-evenly;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    border: 3px solid black;
 }
 
 .p1 {
@@ -179,9 +152,51 @@
     text-align: center;
     margin-left: 40%;
 }
+
 .p2 {
     padding: 5px;
+    width: 300px;
+    height: auto;
+    margin-left: 33%;
 }
+
+.m-box3 {
+    border: 1px solid black;
+    height: auto;
+    width: 40%;
+    min-width: 100px;
+ }
+
+.m-box3a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 1.1rem;
+    height: 15px;
+    padding: 5px;
+    border: 2px solid black;
+    width: auto;
+    background-color: rgb(45, 143, 234);
+}
+
+.m-box4 {
+    border: 1px solid black;
+    height: auto;
+    width: 40%;
+    min-width: 100px;
+}
+
+.m-box5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    justify-content: space-evenly;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
 .f {
     display: flex;
     justify-content: center;
@@ -196,7 +211,9 @@
     color: black;
     margin-top: 15px;
     margin-bottom: 15px;
+    padding: 5px;
 }
+
 .footer {
     justify-content: center;
     align-items: center;
