@@ -1,0 +1,111 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    border: border-box;
+}
+
+.navbar1 {
+    width: 100%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    justify-content: center;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 1rem;
+    margin: 0%;
+    padding: 0%;
+    border: 0.5px solid transparent;
+}
+.navbar2 {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    justify-content: center;
+    text-align: center;
+    background-color:#232f3e;
+    color: white;
+    font-size: 1rem;
+    border: 0.5px solid transparent;
+}
+.border:hover {
+    border: 0.5px solid white;
+}
+.nab2 {
+    margin: 5px;
+    padding: 5px;
+}
+
+.hero-photo {
+    height: 450px;
+    width: 100%;
+}
+.hero-photo2 {
+    height: 450px;
+    width: 100%;
+    background-image: url("hero_section.jpg");
+    background-size: cover;
+    border: 0.5px solid transparent;
+}
+
+.f1-box1 {
+    height: 50px;
+    width: 100%;
+    color: white;
+    background-color: #455f7f;
+    align-items: center;
+    justify-content: space-evenly;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+}
+.f2-box1 {
+    background-color: #232f3e;
+    height: 600px;
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+    justify-content: space-evenly;
+    color: #dddddd;
+    border: 2px solid black;
+    display: flex;
+}
+
+.bToTop {
+    border: 0.5px solid transparent;
+    font-size: 1rem;
+}
+
+.text-top {
+    margin: 5px;
+    color: white;
+    font-weight: 600;
+    font-size: 1.1rem;
+    border: 0.5px solid transparent;
+}
+
+.text-low {
+    color: #dddddd;
+    font-size: 1rem;
+    border: 0.5px solid transparent;
+}
+.img1 {
+    height: 50;
+    width: 100px;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid red;
+}
+.img {
+    height: 50px;
+    width: 100px;
+    background-image: url("amazonlogo.png");
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    border: 0.5px solid transparent;
+}
