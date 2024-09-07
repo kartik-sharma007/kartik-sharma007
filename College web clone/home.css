@@ -13,12 +13,25 @@
     text-align: center;
     background-color: rgb(255, 196, 0);
     justify-content: space-evenly;
-    min-height: 1.5rem;
     height: auto;
+    min-height: 1.5rem;
     color: black;
     font-size: 1.5rem;
     width: 100%;
     font-size: 1rem;
+}
+
+.navbar2 {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    color: rgb(45, 143, 234);
+    justify-content: space-evenly;
+    height: auto;
+    min-height: 70px;
+    width: 100%;
+    border:1px solid black;
 }
 
 .border {
@@ -38,20 +51,10 @@
     font-size: 1.5rem;
     margin-left: 5px;
     padding: 5px;
+    height: auto;
+    width: auto;
 }
 
-.navbar2 {
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    background-color: rgb(255, 255, 255);
-    color: rgb(45, 143, 234);
-    justify-content: space-evenly;
-    height: auto;
-    min-height: 70px;
-    width: 100%;
-    border: 1px solid black;
-}
 
 .n-box1 {
     display: flex;
@@ -59,6 +62,8 @@
     align-items: center;
     text-align: center;
     padding: 5px;
+    height: auto;
+    width: auto;
 }
 
 .n-box2 {
@@ -66,6 +71,8 @@
     justify-content: center;
     align-items: center;
     text-align: center;
+    height: auto;
+    width: auto;
 }
 
 .n-box3 {
@@ -73,6 +80,8 @@
     justify-content: center;
     align-items: center;
     text-align: center;
+    height: auto;
+    width: auto;
 }
 
 .n-box4 {
@@ -80,6 +89,8 @@
     justify-content: center;
     align-items: center;
     text-align: center;
+    height: auto;
+    width: auto;
 }
 
 .n-box5 {
@@ -87,9 +98,13 @@
     justify-content: center;
     align-items: center;
     text-align: center;
+    height: auto;
+    width: auto;
 }
 
 .n-box6 {
+    height: auto;
+    width: auto;
     display: flex;
     justify-content: center;
     align-items: center;
