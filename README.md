@@ -1,5 +1,7 @@
 # 💫 About Me:
-My name is Kartik Sharma, and I am a BCA student from India with a strong interest in computer science and software development. I am currently in the learning phase of my career and do not yet have formal work experience, but I am actively building my technical skills and practical understanding.<br>I have foundational knowledge of multiple programming languages and web technologies, including C++, Python, Java, JavaScript, HTML, CSS, and Bootstrap. My focus is on strengthening my problem-solving abilities, writing clean code, and understanding real-world application development.<br>In addition to academics, I am an NCC Cadet, which has helped me develop discipline, teamwork, leadership qualities, and a strong sense of responsibility. I am motivated, eager to learn, and committed to growing as a professional in the field of technology.
+My Name is Kartik Sharma
+And I am a BCA student from India with a strong interest in computer science and software development. I am currently in the learning phase of my career and do not yet have formal work experience, but I am actively building my technical skills and practical understanding.<br>I have foundational knowledge of multiple programming languages and web technologies, including C++, Python, Java, JavaScript, HTML, CSS, and Bootstrap. My focus is on strengthening my problem-solving abilities, writing clean code, and understanding real-world application development.<br>In addition to academics, 
+I am an NCC Cadet, which has helped me develop discipline, teamwork, leadership qualities, and a strong sense of responsibility. I am motivated, eager to learn, and committed to growing as a professional in the field of technology.
 
 
 ## 🌐 Socials:
